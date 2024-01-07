@@ -9,7 +9,17 @@
   "imageSize": 100,
   "commit": true,
   "commitConvention": "angular",
-  "contributors": [],
+  "contributors": [
+    {
+      "login": "ajh123",
+      "name": "Samuel Hulme",
+      "avatar_url": "https://avatars.githubusercontent.com/u/41990982?v=4",
+      "profile": "https://minersonline.uk/",
+      "contributions": [
+        "doc"
+      ]
+    }
+  ],
   "contributorsPerLine": 7,
   "linkToUsage": true
 }
