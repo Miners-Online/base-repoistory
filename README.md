@@ -11,7 +11,13 @@ This repository is a template (or "base") for Miners Online projects. In additio
 
 2. Configure the repository details to your liking.
 
-3. Once the repository is created, you must update the [./.all-contributorsrc](./.all-contributorsrc) file. Replace `"base-repository"` with the name of your repository and replace `"Miners-Online"` with the owner of the repository.
+3. Once the repository is created, make sure you have cloned the repository (with Git), you must update the [./.all-contributorsrc](./.all-contributorsrc) file. Replace `"base-repository"` with the name of your repository and replace `"Miners-Online"` with the owner of the repository.
+
+4. Reset the `"contributors"` list to `"contributors": [],` inside the [./.all-contributorsrc](./.all-contributorsrc) file.
+
+5. Install the [AllContributors GitHub App](https://allcontributors.org/docs/en/bot/installation) and the [CLI](https://allcontributors.org/docs/en/cli/installation). Regenerate the README with `npx all-contributors generate` or `yarn all-contributors generate`.
+
+6. Remove this "Using this template" section and update what is left.
 
 ## License
 
@@ -19,7 +25,9 @@ This repository is licensed with the Miners Online Public Software License see [
 
 For third-party licenses see [third-party/README.md](third-party/README.md).
 
-## Contributors
+## Contributors ✨
+
+Thanks go to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
@@ -27,7 +35,7 @@ For third-party licenses see [third-party/README.md](third-party/README.md).
 <table>
   <tbody>
     <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://minersonline.uk/"><img src="https://avatars.githubusercontent.com/u/41990982?v=4?s=100" width="100px;" alt="Samuel Hulme"/><br /><sub><b>Samuel Hulme</b></sub></a><br /><a href="https://github.com/Miners-Online/base-repoistory/commits?author=ajh123" title="Documentation">📖</a> <a href="https://github.com/Miners-Online/base-repoistory/issues?q=author%3Aajh123" title="Bug reports">🐛</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://minersonline.uk/"><img src="https://avatars.githubusercontent.com/u/41990982?v=4?s=100" width="100px;" alt="Samuel Hulme"/><br /><sub><b>Samuel Hulme</b></sub></a><br /><a href="https://github.com/Miners-Online/base-repository/commits?author=ajh123" title="Documentation">📖</a> <a href="https://github.com/Miners-Online/base-repository/issues?q=author%3Aajh123" title="Bug reports">🐛</a></td>
     </tr>
   </tbody>
   <tfoot>
@@ -45,3 +53,6 @@ For third-party licenses see [third-party/README.md](third-party/README.md).
 <!-- prettier-ignore-end -->
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://allcontributors.org) specification.
+Contributions of any kind are welcome!
