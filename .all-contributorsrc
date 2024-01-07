@@ -1,5 +1,5 @@
 {
-  "projectName": "repository",
+  "projectName": "base-repoistory",
   "projectOwner": "Miners-Online",
   "repoType": "github",
   "repoHost": "https://github.com",
@@ -16,10 +16,12 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/41990982?v=4",
       "profile": "https://minersonline.uk/",
       "contributions": [
-        "doc"
+        "doc",
+        "bug"
       ]
     }
   ],
   "contributorsPerLine": 7,
-  "linkToUsage": true
+  "linkToUsage": true,
+  "commitType": "docs"
 }
