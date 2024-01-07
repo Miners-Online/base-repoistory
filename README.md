@@ -27,7 +27,7 @@ For third-party licenses see [third-party/README.md](third-party/README.md).
 <table>
   <tbody>
     <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://minersonline.uk/"><img src="https://avatars.githubusercontent.com/u/41990982?v=4?s=100" width="100px;" alt="Samuel Hulme"/><br /><sub><b>Samuel Hulme</b></sub></a><br /><a href="https://github.com/Miners-Online/repository/commits?author=ajh123" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://minersonline.uk/"><img src="https://avatars.githubusercontent.com/u/41990982?v=4?s=100" width="100px;" alt="Samuel Hulme"/><br /><sub><b>Samuel Hulme</b></sub></a><br /><a href="https://github.com/Miners-Online/base-repoistory/commits?author=ajh123" title="Documentation">📖</a> <a href="https://github.com/Miners-Online/base-repoistory/issues?q=author%3Aajh123" title="Bug reports">🐛</a></td>
     </tr>
   </tbody>
   <tfoot>
