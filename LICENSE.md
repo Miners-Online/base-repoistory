@@ -1,94 +1,110 @@
-# Miners Online Public Software License (MOPSL) Version 1.0
+# Miners Online Public Software License (MOPSL) Version 2.0
 
 Copyright (C) 2024 Miners Online and Contributors.
 
 Everyone is permitted to copy and distribute verbatim copies of this License document, but changing it is not allowed.
 
 <!-- markdownlint-disable MD036 -->
-*Last modified: 7th January 2024*
+*Last modified: 12th May 2024*
 
 ## Preamble
 
-The Miners Online Public Software License (MOPSL) is designed to provide the terms and conditions for the use, modification, and distribution of Software developed by Miners Online. By using, modifying, or distributing the Software covered by this License, you agree to abide by the terms and conditions outlined below.
+The Miners Online Public Software License (MOPSL) is designed to provide the terms and conditions for the use, modification, and distribution of Software developed by Miners Online. By using, modifying, or distributing the Software covered by this License, you agree to abide by the terms and conditions outlined below (or the terms of any newer license).
 
 ## Definitions
 
-1. **The "License":**
-   The License refers to this Miners Online Public Software License or any later version.
+### The "Author"
 
-2. **The "Super License":**
-    The Super License is hereby defined as the GNU General Public License version 3, from the Free Software Foundation (FSF), any later versions shall not be used. A copy may be found at ["./docs/LICENSE-GPLV3"](./docs/LICENSE-GPLV3).
+The "Author" refers to the original creator or distributor of the Software (Miners Online).
 
-3. **"User":**
-   A User is any person or legal entity that wishes to use this Software. In many instances *you are a User*.
+### The "Software"
 
-4. **"Contributor":**
-   A Contributor is any person or legal entity that makes a Contribution.
+"Software" refers to any program or application distributed under this license.
 
-5. **"Contribution":**
-   A Contribution is defined as any original work of authorship, including but not limited to any source code, documentation, or changes submitted to the Software by a Contributor.
+### The "License"
 
-6. **"Source Code":**
-   Source Code refers to the human-readable form of a Software program, including all statements and instructions written in a programming language.
+The "License" refers to this Miners Online Public Software License or any later version.
 
-7. **"Third-Party Component":**
-   A Third-Party Component is anything, including but not limited to any source code, binaries, or assets (such as images, music or sound) that this Software uses not made by Miners Online.
+### "User"
+
+A "User" is any person or legal entity that wishes to use this Software. (referred to as You).
+
+### "License Key Authentication"
+
+"License Key Authentication" refers to any mechanism used by the Software to validate its usage through a license key or similar method.
+
+### "Contributor"
+
+A "Contributor" refers to any individual or legal entity that submits changes, enhancements, or additions to the Software.
+
+### "Derived Work"
+
+A "Derived Work" refers to any modification, enhancement, extension, or adaptation of the original Software, regardless of the extent of such modifications. This includes but is not limited to:
+
+- Any changes made to the source code of the Software.
+- Any software applications or programs that are based on, derived from, or incorporate substantial portions of the original Software.
+- Any works that are created by combining, integrating, or linking the original Software with other software components or libraries.
+
+In essence, a Derived Work is any new work that is created based on or derived from the original Software, resulting in a modified or derivative version of the original Software.
 
 ## Terns and Conditions
 
-### Basic Terms and Conditions
+### 1. Acceptance of Terms and conditions
 
-1. **Acceptance of Super License:**
-   By using this Software, you acknowledge and agree to be bound by the terms of a "Super License."
+Users must accept the terms and conditions of this license and any newer versions of the license to use, modify, or distribute the Software
 
-2. **Modification of Super License:**
-   Miners Online reserves the right to modify or change the Super License in the future. Users are also required to accept any additional conditions imposed by Miners Online, which take precedence over the Super License. It is the responsibility of the User to stay informed about any updates or changes to the License.
+### 2. Grant of License
 
-3. **No Warranty or Liability:**
-   The Software is provided "as is," without any warranty or liability of any kind. Miners Online shall not be responsible for any damages, including but not limited to direct, indirect, incidental, special, exemplary, or consequential damages arising out of the use or inability to use the Software.
+Subject to the terms and conditions of this license, the Author hereby grants you a worldwide, royalty-free, non-exclusive license to use, copy, modify, and distribute the Software, provided that the following restrictions are met:
 
-   Contributors and users agree to indemnify and hold Miners Online harmless from any claims, damages, or liabilities arising from the use, modification, or distribution of the Software.
+### 3. Distribution and Selling
 
-4. **Third-Party Components:**
-   The Software may include Third-Party Components, each with its own respective License. A list of Third-Party Components and their corresponding licenses can be found in the ["./docs/third-party/"](./docs/third-party) directory of the Software distribution. Users are required to acknowledge the use of these Third-Party Components and accept their respective licenses.
+You may not distribute or sell the Software to any third party without prior authorisation from the Author. Authorisation for distribution or selling may be granted by the Author under separate agreement.
 
-### User Terms and Conditions
+### 4. License Key Authentication
 
-1. **User Disagreement:**
-   If you do not agree with the terms of this License, including the Super License, any future modifications, additional conditions, the licenses of Third-Party Components, or the Contributor Agreement, you are not permitted to use, modify, or distribute the Software.
+You may not remove, disable, or circumvent any license key authentication or similar mechanism implemented by the Software to validate its usage, unless explicitly authorised by the Author.
 
-2. **Distribution Notice for Third-Party Components:**
-   If you distribute the Software, you must include a clear notice that the distribution includes Third-Party Components and provide information on where to find their respective licenses in the ["./docs/third-party/"](./docs/third-party) directory.
+### 5. Attribution Requirement
 
-3. **Compliance with Applicable Laws:**
-   Users must ensure that their use, modification, and distribution of the Software comply with all applicable laws and regulations.
+Users must retain and reproduce any copyright notices, disclaimers, or other proprietary notices included in the Software.
 
-4. **Attribution Requirement:**
-   Users must retain and reproduce any copyright notices, disclaimers, or other proprietary notices included in the Software.
+### 6. Derived Works
 
-### Contributor Terms and Conditions
+You may not use the Software to create, develop, or distribute Derived Works without prior authorisation from the Author. Authorisation for Derived Works may be granted by the Author under separate agreement.
 
-1. **Contributor Agreement:**
-   Contributors must explicitly agree that their Contributions are Licensed under the terms of the Miners Online Public Software License and the Super License. Contributors also agree to accept any future License changes, including changes to the Super License.
+The Author grants Contributor to right to make Derived Works for the purposes of contributing to the original Software only. These Derived Works may not be used for any other purposes, unless authorised by the Author.
 
-2. **Originality of Contributions:**
-   Contributors warrant that their Contributions are original works of authorship and do not violate any third-party rights.
+### 7. No Warranty
 
-3. **License Grant:**
-   Contributors grant Miners Online a non-exclusive, worldwide, royalty-free license to use, modify, and distribute their Contributions under the terms of the License.
+The Software is provided "as is," without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and non-infringement. In no event shall the Author be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the Software or the use or other dealings in the Software.
 
-4. **Responsibility for Third-Party Components:**
-   Contributors are responsible for ensuring that if their Contributions include any Third-Party Components they have permission from the owners of the Third-Party Component to use it in this Software.
+### 8. Termination
 
-   If so, the Contributor must add the license of the Third-Party Component to a file named `./docs/third-party/<component name>/LICENSE`. In addition, the Contributor must add a file named `./docs/third-party/<component name>/README.md` which should include, but not limited to, the Component's name, a link to the source and the link to the license.
+This license is effective until terminated. Your rights under this license will terminate automatically without notice from the Author if you fail to comply with any term(s) of this license. Upon termination of this license, you shall cease all use of the Software and destroy all copies, full or partial, of the Software in your possession or control.
 
-   In the examples above `<component name>` refers to the name of the Third-Party Component.
+## Contributor Terms and Conditions
 
-5. **Code of Conduct:**
-   Contributors must adhere to the Miners Online Code of Conduct, available at [link_to_code_of_conduct], when making Contributions.
+Contributors to the Software's source code must agree to the following terms and conditions:
+
+### 1. License for Contributions
+
+By submitting a contribution, each Contributor hereby grants the Author a worldwide, royalty-free, non-exclusive license to use, copy, modify, and distribute the contribution under the same license as the Software itself. Contributors agree that their contribution grants the Author full rights to utilise the contribution in any manner deemed appropriate by the Author.
+
+### 2. Ownership of Contributions
+
+Each Contributor represents that the contribution is their original creation and that they have the right to submit it under the designated license. If a Contributor's work includes materials that are subject to third-party rights, the Contributor will obtain all necessary licenses and clearances before submitting the contribution.
+
+### 3. Contribution Guidelines
+
+Contributors must adhere to the contribution guidelines specified by the Author, which may include but are not limited to code quality standards, documentation requirements, and licensing compatibility.
+
+### 4. No Warranty
+
+Contributors provide their contributions "as is," without warranty of any kind, express or implied. Contributors shall not be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the contribution or its use or other dealings in the contribution.
 
 ## Conclusion
 
 This License is a legal agreement between you and Miners Online. By using, modifying, or distributing the Software covered by this License, you acknowledge that you have read, understood, and agreed to the terms and conditions outlined above.
 
-<!-- For any questions regarding this License or the licenses of Third-Party Components, please contact Miners Online at [contact@minersonline.uk]. -->
+This license shall be governed by the laws of the United Kingdom of Great Britain and Northern Ireland, excluding its conflict of law provisions. If any provision of this license is held to be unenforceable, such provision shall be reformed only to the extent necessary to make it enforceable.
